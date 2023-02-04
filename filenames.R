@@ -1,3 +1,5 @@
+## This function is for renaming files with the metadata in the image (date, time, etc.) rather than as IMG_0001, etc.
+
 setwd("E:/Phantom_Rivers/Flower_photos/")
 setwd("C:/Flower_photos")
 dir()
